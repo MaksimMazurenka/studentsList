@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lab_3</title>
+    <link rel="stylesheet" href="Content/bootstrap.min.css"/>
+</head>
+<body>
+    <div class="alert" id="alert">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+           <div id="alert-text"></div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <h4 class="text-center">Add student</h4>
+                <form id="add" class="form-horizontal">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input name="name" id="name" type="text" class="form-control" placeholder="Enter name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone</label>
+                        <input name="phone" id="phone" type="text" class="form-control" placeholder="Enter phone number" />
+                    </div>
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-success form-control">Add</button>
+                    </div>
+                </form>
+            </div>
+            
+            <div class="col-md-5 col-md-offset-1">
+                <h4 class="text-center">Search</h4>
+                <form id="search" class="form-horizontal">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input name="name" id="name" type="text" placeholder="Name" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone</label>
+                        <input name="phone" id="phone" type="text" placeholder="Phone" class="form-control" />
+                    </div>
+                    <div class="form-group">
+                        <label for="columns">Columns</label>
+                        <input name="columns" id="columns" type="text" placeholder="Columns" class="form-control" value="id,name,phone" />
+                    </div>
+                    <div class="form-group">
+                        <label for="orderby">Order by</label>
+                        <select name="orderby" class="form-control">
+                            <option selected>Id</option>
+                            <option>Name</option>
+                            <option>Phone</option>
+                        </select>
+                    </div>
+                    <div class="form-group">
+                        <label for="offset">Offset</label>
+                        <input name="offset" id="offset" type="number" class="form-control" placeholder="Offset" value="0" />
+                    </div>
+                    <div class="form-group">
+                        <label for="limit">Limit</label>
+                        <input name="limit" id="limit" type="number" class="form-control" placeholder="Limit" value="10" />
+                    </div>
+                    <div class="form-group">
+                        <label for="globalike">Globalike</label>
+                        <input name="globalike" id="globalike" type="checkbox" class="checkbox-inline" placeholder="Globalike" value="on"/>
+                    </div>
+                    <div class="form">
+                        <button class="btn btn-default form-control" type="submit">Search</button>
+                    </div>  
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h4 class="text-center">Students list</h4>
+        <div class="row">
+            <table id="student-list" class="table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>Action</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <nav aria-label="Page navigation example">
+          <ul class="pagination" class="mx-auto">
+            <li class="page-item"><a class="page-link" href="#">Previous</a></li>
+            <li class="page-item"><a class="page-link" href="#">1</a></li>
+            <li class="page-item"><a class="page-link" href="#">2</a></li>
+            <li class="page-item"><a class="page-link" href="#">3</a></li>
+            <li class="page-item"><a class="page-link" href="#">Next</a></li>
+          </ul>
+        </nav>
+    </div>
+
+    <div class="modal fade" id="update-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Edit student #<label id="update-id"></label></h4>
+                </div>
+                <div class="modal-body">
+                    <form id="update-form">
+                        <input name="id" type="hidden" />
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input name="name" id="name" type="text" class="form-control" placeholder="Enter name" />
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone</label>
+                            <input name="phone" id="phone" type="text" class="form-control" placeholder="Enter phone number" />
+                        </div>
+                        <div class="form-group">
+                            <button type="submit" class="btn btn-warning form-control">Update</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/app.js"></script>
+</body>
+</html>

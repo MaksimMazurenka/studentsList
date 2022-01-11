@@ -1,0 +1,290 @@
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Lab_3.dll.config
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Lab_3.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Lab_3.pdb
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csc.exe
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csc.rsp
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csi.exe
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\csi.rsp
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\vbc.exe
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\EntityFramework.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Web.Http.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\EntityFramework.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Web.Http.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\ru\System.Net.Http.Formatting.resources.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\ru\System.Web.Http.resources.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\bin\ru\System.Web.Http.WebHost.resources.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+C:\Users\dimas\Desktop\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+C:\Users\dimas\Desktop\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+C:\Users\dimas\Desktop\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+C:\Users\dimas\Desktop\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Lab_3.dll.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Lab_3.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Lab_3.pdb
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csi.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\csi.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\vbc.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\EntityFramework.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Web.Http.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\EntityFramework.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Web.Http.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\ru\System.Web.Http.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+D:\Study\4 Course\1 семестр\Программирование в интернет\Лабораторные работы\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Lab_3.dll.config
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Lab_3.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Lab_3.pdb
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csc.exe
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csc.rsp
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csi.exe
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\csi.rsp
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\vbc.exe
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\EntityFramework.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\EntityFramework.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\ru\System.Web.Http.resources.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.AssemblyReference.cache
+D:\labs\BELSTU\internet\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\labs\BELSTU\internet\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\labs\BELSTU\internet\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\obj\Debug\Lab_3.pdb
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Cors.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.Cors.dll
+D:\labs\BELSTU\internet\Lab_3\Lab_3\bin\System.Web.Http.Cors.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Lab_3.dll.config
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Lab_3.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Lab_3.pdb
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csc.exe
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csc.exe.config
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csc.rsp
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csi.exe
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csi.exe.config
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\csi.rsp
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.Managed.Core.targets
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.AppContext.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Collections.Immutable.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Console.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.IO.Compression.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.IO.Pipes.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Reflection.Metadata.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.AccessControl.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Claims.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Security.Principal.Windows.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.ValueTuple.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Xml.XmlDocument.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\vbc.exe
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\vbc.exe.config
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\vbc.rsp
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\roslyn\VBCSCompiler.exe.config
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\EntityFramework.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\EntityFramework.SqlServer.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Newtonsoft.Json.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Net.Http.Formatting.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Cors.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.Cors.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.WebHost.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\EntityFramework.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\EntityFramework.SqlServer.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Net.Http.Formatting.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.Cors.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Newtonsoft.Json.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\System.Web.Http.WebHost.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\ru\System.Web.Http.resources.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\obj\Debug\Lab_3.csprojAssemblyReference.cache
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CoreCompileInputs.cache
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\obj\Debug\Lab_3.csproj.CopyComplete
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\obj\Debug\Lab_3.dll
+D:\4_Kypc\ProgrammingInInternet\Labs\12345\Lab_3\Lab_3\obj\Debug\Lab_3.pdb

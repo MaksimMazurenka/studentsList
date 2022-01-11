@@ -1,0 +1,147 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>Lab_3</title>
+    <link rel="stylesheet" href="Content/bootstrap.min.css"/>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/fast-xml-parser/3.19.0/parser.min.js" integrity="sha512-kAe/WiFMBWVEk/QKvH9XbN/Dyn6HwHDVbN2ZLh5Bi0HExEJ3tn5HSIWFc6JMQz5Xq9fkb02+k5QsoRkbKhPDlQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+</head>
+<body>
+    <div class="alert" id="alert">
+        <a href="#" class="close" data-dismiss="alert" aria-label="close">&times;</a>
+           <div id="alert-text"></div>
+    </div>
+
+    <div class="container">
+        <div class="row">
+            <div class="col-md-5">
+                <h4 class="text-center">Add student</h4>
+                <form id="add" class="form-horizontal">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input name="name" id="name" type="text" placeholder="Enter name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone</label>
+                        <input name="phone" id="phone" type="text" placeholder="Enter phone number" />
+                    </div>
+                    <div class="form-group">
+                        <button type="button" >Add</button>
+                    </div>
+                </form>
+            </div>
+            
+            <div class="col-md-5 col-md-offset-1">
+                <h4 class="text-center">Search</h4>
+                <form id="search" class="form-horizontal">
+                    <div class="form-group">
+                        <label for="name">Name</label>
+                        <input name="name" id="name" type="text" placeholder="Name" />
+                    </div>
+                    <div class="form-group">
+                        <label for="phone">Phone</label>
+                        <input name="phone" id="phone" type="text" placeholder="Phone"/>
+                    </div>
+                    <div class="form-group">
+                        <label for="columns">Columns</label>
+                        <input name="columns" id="columns" type="text" placeholder="Columns" value="Id,Name,Phone" />
+                    </div>
+                    <div class="form-group">
+                        <label for="orderby">Order by</label>
+                        <select name="orderby">
+                            <option selected>Id</option>
+                            <option>Name</option>
+                            <option>Phone</option>
+                        </select>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <label for="offset">Offset</label>
+                            <input name="offset" id="offset" type="number" placeholder="Offset" value="0" />
+                        </div>
+                        <div class="col">
+                            <label for="limit">Limit</label>
+                            <input name="limit" id="limit" type="number" placeholder="Limit" value="5" />
+                        </div>
+                    </div>
+                    <div class="row">
+                        <div class="col">
+                            <label for="minId">MinId</label>
+                            <input name="minId" id="minId" type="number" placeholder="minId" value="0" />
+                        </div>
+                        <div class="col">
+                            <label for="maxId">MaxId</label>
+                            <input name="maxId" id="maxId" type="number" placeholder="maxId" value="9999999" />
+                        </div>
+                    </div>
+                    <div class="form-group">
+                        <label for="globallike">GLOBAL LIKE</label>
+                        <input name="globallike" id="globallike" type="text" placeholder="ID+NAME+PHONE" />
+                    </div>
+                    <div class="form-group">
+                        <label for="xml">XML</label>
+                        <input name="xml" id="xml" type="checkbox" class="checkbox-inline" placeholder="XML"/>
+                    </div>
+                    <div class="form">
+                        <button type="button">Search</button>
+                    </div>  
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+        <h4 class="text-center">aaa list</h4>
+        <div class="row">
+            <table id="student-list" class="table">
+                <thead>
+                    <tr>
+                        <th>#</th>
+                        <th>Name</th>
+                        <th>Phone</th>
+                        <th>Action</th>
+                        <th>Link</th>
+                    </tr>
+                </thead>
+                <tbody>
+                </tbody>
+            </table>
+        </div>
+        <nav>
+          <ul id="pag" class="pagination justify-content-center">
+          </ul>
+        </nav>
+    </div>
+
+    <div class="modal fade" id="update-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+        <div class="modal-dialog" role="document">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
+                    <h4 class="modal-title" id="myModalLabel">Edit student #<label id="update-id"></label></h4>
+                </div>
+                <div class="modal-body">
+                    <form id="update-form">
+                        <input name="id" type="hidden" />
+                        <div class="form-group">
+                            <label for="name">Name</label>
+                            <input name="name" id="name" type="text" placeholder="Enter name" />
+                        </div>
+                        <div class="form-group">
+                            <label for="phone">Phone</label>
+                            <input name="phone" id="phone" type="text" placeholder="Enter phone number" />
+                        </div>
+                        <div class="form-group">
+                            <button type="button">Update</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="Scripts/jquery-1.10.2.min.js"></script>
+    <script src="Scripts/bootstrap.min.js"></script>
+    <script src="Scripts/app.js"></script>
+</body>
+</html>
